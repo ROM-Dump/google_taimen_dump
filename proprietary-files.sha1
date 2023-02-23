@@ -1,0 +1,84 @@
+# All blobs are from "taimen-user 8.1.0 OPM1.171019.011 4448085 release-keys" and are pinned with sha1sum values
+
+# Audio
+
+# Bluetooth-AptX
+lib64/libaptXHD_encoder.so|90f47f10af28b3ead143200cb4370b847c513127
+lib64/libaptX_encoder.so|0cebad28afcf29f931bdc2d24fce2730dc882ecf
+
+# CNE
+etc/cne/Nexus/ATT/ATT_profiles.xml|19c4f4af0def7f757e81988d028cfad059a41327
+etc/cne/Nexus/ROW/ROW_profiles.xml|e3907ff71cbbe0f1073ec1bf0223d26c8282aa35
+etc/cne/Nexus/VZW/VZW_profiles.xml|0d35b3266ea656d8868ae8f5d7e938f4859e9b0a
+-framework/cneapiclient.jar|1f21d2c86b1899b5aaff96ec6ce41de0ed38ebf0
+-priv-app/CNEService/CNEService.apk|9bafa7be7ccea3d0624a72b9013ec477becbde51
+
+# Camera
+
+# DRM
+
+# Display-Hardware
+
+# Firmware
+etc/firmware/dnd.descriptor|ff1db7e715d7ce4653587b496850aa286276ea24
+etc/firmware/dnd.sound_model|641603678de85711c8e6955b49e1ff47202b2c8d
+etc/firmware/music_detector.descriptor|cd9ebfc43677b86d9a73d53bb550a56347b0b306
+etc/firmware/music_detector.sound_model|fd6e88ec8003a80759b54ccfbfb40007b9c47b96
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# HotwordEnrollment
+-priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk|9de0ebfc127674eb2981e0007cda919be7ad1161
+-priv-app/HotwordEnrollmentTGoogleWCD9340/HotwordEnrollmentTGoogleWCD9340.apk|6c0e476213577e47fbbedf030baf048cfff5135b
+-priv-app/HotwordEnrollmentXGoogleWCD9340/HotwordEnrollmentXGoogleWCD9340.apk|62f585adfaa0423b34bad33150be119a402850c1
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+-app/embms/embms.apk|40733124d0630330f15a71484bc934c6754d9190
+-framework/embmslibrary.jar|7de23dc5b7bd5115d47ce3817163ba865a658cca
+-priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk|04c5e5c32b4b0b403a9efed5dd41e90d7dd5f0e4
+
+# Radio-IMS
+app/ims/lib/arm64/libimscamera_jni.so|ecf90e0a19f1a994d3378276221bb1833bc48930
+app/ims/lib/arm64/libimsmedia_jni.so|db9e2b4346c70f02bec950790ff05fe5aa81e93d
+-app/uceShimService/uceShimService.apk|e43d32ff4e0432990ceb0e4d0123c0b2b9b86ea6
+lib/lib-imsvideocodec.so|212176a72c2ba25f7c1412fd9497fdf5012fabf7
+lib/lib-imsvt.so|af1f6e10656efc34d3e70fb2f14472cf722371f3
+lib/lib-imsvtextutils.so|4f73103e5ff7a732604cb87c10983beacb57a4f9
+lib/lib-imsvtutils.so|4a7ffe9d5d2b25a4c6d1e862f0dbf458c6693c06
+lib/libdiag_system.so|eec6684a2a09143cafb180371612b0e0729e394a
+lib/libimscamera_jni.so|6bbc63035da84d7154337d5cb1531624860be661
+lib/libimsmedia_jni.so|0d0ac03acc0e365957b94917c1140b2ccddaa948
+lib/librcc.so|35d7ca9cf7d691cbe9a979cf80e9b9f2713f3e17
+lib64/lib-imsvideocodec.so|74fb133170b61cdf328b72b7a9e35059ccf16f26
+lib64/lib-imsvt.so|b87c35bb7476e42f867ee239a74e508ce3c6fd14
+lib64/lib-imsvtextutils.so|7ad4a0fc341c447b660e1ee1a80749cc91c2ac47
+lib64/lib-imsvtutils.so|b1299549115a6133d8653f16d75583fdbda4e0d4
+lib64/libdiag_system.so|ed736fa647f1784a33898d2ed72d5b9c2218b2ff
+lib64/libimscamera_jni.so|230eed897394d6516c510ae21d219f8caa41c91b
+lib64/libimsmedia_jni.so|0d8fb53a74c1cd6570e73a438677d421fe765013
+lib64/librcc.so|8cfbc0183828c3fad8e3d3a501b247c23515b8d3
+
+# Sensors
+
+# Time
+
+# WiFi
+bin/iwpriv|
+
+# Misc

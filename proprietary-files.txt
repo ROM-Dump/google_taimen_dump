@@ -1,0 +1,84 @@
+# All blobs from taimen-user 8.1.0 OPM1.171019.011 4448085 release-keys, unless pinned
+
+# Audio
+
+# Bluetooth-AptX
+lib64/libaptXHD_encoder.so
+lib64/libaptX_encoder.so
+
+# CNE
+etc/cne/Nexus/ATT/ATT_profiles.xml
+etc/cne/Nexus/ROW/ROW_profiles.xml
+etc/cne/Nexus/VZW/VZW_profiles.xml
+-framework/cneapiclient.jar
+-priv-app/CNEService/CNEService.apk
+
+# Camera
+
+# DRM
+
+# Display-Hardware
+
+# Firmware
+etc/firmware/dnd.descriptor
+etc/firmware/dnd.sound_model
+etc/firmware/music_detector.descriptor
+etc/firmware/music_detector.sound_model
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# HotwordEnrollment
+-priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk
+-priv-app/HotwordEnrollmentTGoogleWCD9340/HotwordEnrollmentTGoogleWCD9340.apk
+-priv-app/HotwordEnrollmentXGoogleWCD9340/HotwordEnrollmentXGoogleWCD9340.apk
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+-app/embms/embms.apk
+-framework/embmslibrary.jar
+-priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
+
+# Radio-IMS
+app/ims/lib/arm64/libimscamera_jni.so
+app/ims/lib/arm64/libimsmedia_jni.so
+-app/uceShimService/uceShimService.apk
+lib/lib-imsvideocodec.so
+lib/lib-imsvt.so
+lib/lib-imsvtextutils.so
+lib/lib-imsvtutils.so
+lib/libdiag_system.so
+lib/libimscamera_jni.so
+lib/libimsmedia_jni.so
+lib/librcc.so
+lib64/lib-imsvideocodec.so
+lib64/lib-imsvt.so
+lib64/lib-imsvtextutils.so
+lib64/lib-imsvtutils.so
+lib64/libdiag_system.so
+lib64/libimscamera_jni.so
+lib64/libimsmedia_jni.so
+lib64/librcc.so
+
+# Sensors
+
+# Time
+
+# WiFi
+bin/iwpriv
+
+# Misc
